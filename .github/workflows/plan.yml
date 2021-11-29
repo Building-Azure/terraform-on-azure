@@ -1,5 +1,4 @@
-name: Terraform Apply
-
+name: Terraform Plan
 on: [workflow_dispatch]
 
 defaults:
